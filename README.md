@@ -28,7 +28,7 @@ An interactive quiz platform built with React.js, featuring quiz creation, insta
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/interactive-quiz-platform.git
+git clone https://github.com/shivamdevloper123/quick-quiz
 cd interactive-quiz-platform
 ```
 
